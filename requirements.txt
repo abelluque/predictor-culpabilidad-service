@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+numpy
+requests
+tokenizers
+torch
+transformers
+gunicorn
+ipdb
